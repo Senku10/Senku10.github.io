@@ -99,11 +99,14 @@ a#onpage{
 	margin-left: 27px;
 	position: relative;
 }	
+.skillset{
+	margin-bottom: 10px;
+	color: #AAFF00;
+}	
 progress{
-	position: relative;
-	width: 450px;
-	height: auto;
-	padding: 15px;
+	display: flex;
+	width: auto;
+	height: 25px;
 }
 img {
 	border-radius: 100%;
@@ -139,9 +142,5 @@ img {
 	height: 1px;
 	width: auto;
 	margin-left: 22px;
-	}
-	progress{
-		width: 425px;
-		height: 35px;
 	}
 }
